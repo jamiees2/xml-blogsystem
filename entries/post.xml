@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<posts>
+    <post>
+          <title>My Blog Post</title>
+          <body>This is mine</body>
+          <author>Mine</author>
+          <date/>
+    </post>
+    
+<post><title>NO</title><author>NO</author><body/><date>October 23, 2013, 10:19 am</date></post><post><title>blerg</title><author>Ernir</author><body>Blurg!</body><date>October 25, 2013, 10:42 am</date></post></posts>
